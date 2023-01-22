@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/feld5hkfdya296w9?svg=true)](https://ci.appveyor.com/project/Dasha/aqa)
